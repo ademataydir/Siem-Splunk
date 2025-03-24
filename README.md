@@ -1,5 +1,3 @@
-# Splunk Enterprise Installation And Settings
-
 ## How to Install Splunk Enterprise on Windows
 You can sign up for the www.splunk.com site and download and install the Splunk Enterprise app.
 
