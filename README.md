@@ -22,10 +22,13 @@ If Splunk will only run on a single server and only needs to access resources on
 
 Here he wants us  to set a username and password for ourselves. We should write down this information as we may be asked to make any adjustments to Splunk Enterprise in the future.
 
-![image](https://github.com/user-attachments/assets/daaa4655-f522-4912-9a44-828f774e1f79) © Splunk Inc.
+![image](https://github.com/user-attachments/assets/c5627a95-5423-43c0-8678-b2af7dc16ab8) © Splunk Inc.
 
 Then we press the "Next" button again and proceed.
 
 ![image](https://github.com/user-attachments/assets/f5789977-b04d-4c17-b26b-198798200db2) © Splunk Inc.
 
 After the installation is finished, we need to click on this box to create a shortcut to the Start menu in order to run Splunk whenever we want. Then we press the "Install" button and start the installation. When the installation is finished, a screen with a "Finish" button at the bottom will appear. When you click the Finish button, our Splunk Enterprise installation is completed.
+
+### Note
+This content has been prepared for personal learning purposes related to the installation of Splunk software. All screenshots and software are the property of Splunk Inc. This page is not intended for commercial use.
