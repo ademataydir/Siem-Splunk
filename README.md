@@ -28,5 +28,31 @@ Then we press the "Next" button again and proceed.
 
 After the installation is finished, we need to click on this box to create a shortcut to the Start menu in order to run Splunk whenever we want. Then we press the "Install" button and start the installation. When the installation is finished, a screen with a "Finish" button at the bottom will appear. When you click the Finish button, our Splunk Enterprise installation is completed.
 
+### Now we need to make some adjustments in Splunk Enterprise so that logs can be transmitted from Splunk Universal Forwarder to Splunk Enterprise.
+
+![image](https://github.com/user-attachments/assets/00aca8f6-7844-461e-8fee-b8fe8e890e60) © Splunk Inc.
+
+On the Splunk Enterprise screen, we enter the "Forwarding and Receiving Indexes" section in the "Settings" section at the top right.
+
+![image](https://github.com/user-attachments/assets/e5df2567-9097-456d-8def-13417977bcc9) © Splunk Inc.
+
+Click on the "Configure receiving" button in the "Receive data" section on the screen that opens.
+
+![image](https://github.com/user-attachments/assets/7dda47da-6657-4b66-9274-0d23bfa19553) © Splunk Inc.
+
+On the page that opens, click on the "New Receiving Port" button in the upper right section.
+
+![image](https://github.com/user-attachments/assets/741a8abe-caa9-4aea-983e-81a274f11378) © Splunk Inc.
+
+When installing Splunk Universal Forwarder, we wrote the port number to which we will send the logs. That port must be open here in order for the logs from there to be retrieved from here. If it is not open, we must open it.  Since we write 9997  there, we write the same here and press the "Save" button.
+
+![image](https://github.com/user-attachments/assets/9d39f07f-c599-4155-8b08-25f0cf70d7e1) 
+
+© Splunk Inc.
+
+The Port we added appears in the list. It should be enable so that the logs can come.
+
+This is the page where we can open, close, add, delete ports to Splunk Enterprise.
+
 ### Note
 This content has been prepared for personal learning purposes related to the installation of Splunk software. All screenshots and software are the property of Splunk Inc. This page is not intended for commercial use.
