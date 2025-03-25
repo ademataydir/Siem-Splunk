@@ -54,5 +54,11 @@ The Port we added appears in the list. It should be enable so that the logs can 
 
 This is the page where we can open, close, add, delete ports to Splunk Enterprise.
 
+### * Now we need to install Splunk Universal Forwarder on our devices  in order to receive logs from our devices to Splunk Enterprise.
+
+https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-windows
+
+https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-linux
+
 ### Note
 This content has been prepared for personal learning purposes related to the installation of Splunk software. All screenshots and software are the property of Splunk Inc. This page is not intended for commercial use.
