@@ -59,7 +59,7 @@ This is the page where we can open, close, add, delete ports to Splunk Enterpris
 - [Splunk Universal Forwarder installation steps on Windows](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-windows)
 - [Splunk Universal Forwarder installation steps on Linux](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-linux)
 
-### * Now, to monitor our system more effectively, we need to create dashboards for several use cases based on the logs collected by Splunk Universal Forwarder and sent to Splunk Enterprise.
+### ** Now, to monitor our system more effectively, we need to create dashboards for several use cases based on the logs collected by Splunk Universal Forwarder and sent to Splunk Enterprise.
 
 - [Splunk Use Cases & Dashboards](https://github.com/ademataydir/splunk-use-cases)
 
