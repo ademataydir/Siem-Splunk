@@ -20,7 +20,7 @@ If Splunk will only run on a single server and only needs to access resources on
 
 Here he wants us  to set a username and password for ourselves. We should write down this information as we may be asked to make any adjustments to Splunk Enterprise in the future.
 
-![image](https://github.com/user-attachments/assets/c5627a95-5423-43c0-8678-b2af7dc16ab8) © Splunk Inc.
+![image](https://github.com/user-attachments/assets/6a96bb5f-58f4-47a7-94cf-dc80de3d29b0) © Splunk Inc.
 
 Then we press the "Next" button again and proceed.
 
@@ -30,7 +30,7 @@ After the installation is finished, we need to click on this box to create a sho
 
 ### Now we need to make some adjustments in Splunk Enterprise so that logs can be transmitted from Splunk Universal Forwarder to Splunk Enterprise.
 
-![image](https://github.com/user-attachments/assets/00aca8f6-7844-461e-8fee-b8fe8e890e60) © Splunk Inc.
+![image](https://github.com/user-attachments/assets/01b4a50e-1bef-48c4-af8d-ae2243bd3ce0) © Splunk Inc.
 
 On the Splunk Enterprise screen, we enter the "Forwarding and Receiving Indexes" section in the "Settings" section at the top right.
 
@@ -46,7 +46,7 @@ On the page that opens, click on the "New Receiving Port" button in the upper ri
 
 When installing Splunk Universal Forwarder, we wrote the port number to which we will send the logs. That port must be open here in order for the logs from there to be retrieved from here. If it is not open, we must open it.  Since we write 9997  there, we write the same here and press the "Save" button.
 
-![image](https://github.com/user-attachments/assets/9d39f07f-c599-4155-8b08-25f0cf70d7e1) 
+![image](https://github.com/user-attachments/assets/bbeb6b05-314a-4199-96ac-4c423fdbf9ee)
 
 © Splunk Inc.
 
